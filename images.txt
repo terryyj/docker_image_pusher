@@ -14,3 +14,15 @@ corentinth/it-tools
 frooodle/s-pdf
 lovechen/embyserver
 amilys/embyserver
+mtphotos/mt-photos
+mtphotos/mt-photos-deepface
+mtphotos/mt-photos-deepface:noavx-latest
+mtphotos/mt-photos-ai:onnx-latest
+johngong/calibre-web
+jc21/nginx-proxy-manager
+halcyonazure/lsky-pro-docker
+linuxserver/qbittorrent
+mariadb
+difegue/lanraragi
+portainer/portainer-ce
+filebrowser/filebrowser
