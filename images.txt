@@ -13,3 +13,4 @@ xhongc/music_tag_web
 corentinth/it-tools
 frooodle/s-pdf
 lovechen/embyserver
+amilys/embyserver
