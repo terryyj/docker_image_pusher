@@ -17,8 +17,8 @@ hsuyelin/nas-tools
 advplyr/audiobookshelf
 deluan/navidrome
 xhongc/music_tag_web
-#mtphotos/mt-photos
-#mtphotos/mt-photos-deepface
+mtphotos/mt-photos
+mtphotos/mt-photos-deepface
 #mtphotos/mt-photos-deepface:noavx-latest
 #mtphotos/mt-photos-ai:onnx-latest
 halcyonazure/lsky-pro-docker
