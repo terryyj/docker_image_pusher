@@ -24,10 +24,10 @@ xhongc/music_tag_web
 halcyonazure/lsky-pro-docker
 johngong/calibre-web
 gotson/komga
-#sndxr/komf
+sndxr/komf
 jvmilazz0/kavita
 difegue/lanraragi
-#mariadb
+mariadb
 jc21/nginx-proxy-manager
 filebrowser/filebrowser
 linuxserver/heimdall
