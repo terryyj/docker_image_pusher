@@ -37,4 +37,3 @@ bytemark/webdav
 corentinth/it-tools
 frooodle/s-pdf
 containrrr/watchtower
-mindoc-org/mindoc
