@@ -39,3 +39,4 @@ frooodle/s-pdf
 containrrr/watchtower
 guovern/tv-driver
 guovern/tv-requests
+cloudnas/clouddrive2
